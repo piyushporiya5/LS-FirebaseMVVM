@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329800086141",
+    "project_id": "socialloginmvvm",
+    "storage_bucket": "socialloginmvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329800086141:android:4c07f644345396dce77714",
+        "android_client_info": {
+          "package_name": "com.sociallogin.mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329800086141-lvskjpidsaacb4o9sp85vd6f9arlmds5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOd3WbEOlMf0pOE1tWHddjODBJWFkbn5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329800086141-lvskjpidsaacb4o9sp85vd6f9arlmds5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SocialLoginMvvm</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_password_here">Enter password here</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="enter_email_here">Enter Email here</string>
+    <string name="register">register</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+
+
+    <string name="facebook_app_id">180581044721838</string>
+    <string name="fb_login_protocol_scheme">fb180581044721838</string>
+    <string name="facebook_client_token">021f37ec74150bc5d19397fae6458ea4</string>
+
+    <string name="login_with_facebook">Login with facebook</string>
+    <string name="login_with_google">Login with google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_in">SIGN IN</string>
+
+</resources>
